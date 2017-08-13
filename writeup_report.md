@@ -126,7 +126,7 @@ reocover into the center of the road when drifting a bit to the sides. These ima
 
 Then I repeated this process on track two in order to get more data points.
 
-To augment the data sat, I also flipped images and angles thinking that this would help with the 'driving' left bias and 
+To augment the data sat, I also flipped images and angles thinking that this would help with the driving-left bias and 
 basically simulate as if we're driving the lap the opposite direction. 
 
 
